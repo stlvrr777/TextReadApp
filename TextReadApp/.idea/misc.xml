@@ -1,0 +1,106 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/ic_back_white.xml" value="0.128" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/ic_more_black.xml" value="0.128" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_button01.xml" value="0.19" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_button02.xml" value="0.131" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_button03.xml" value="0.128" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_edittext01.xml" value="0.131" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_toolbar02.xml" value="0.128" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_category_add.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_dashboard_user.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_edit.xml" value="0.19444444444444445" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_register.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_category.xml" value="0.1" />
+        <entry key="..\:/Users/ivan/Desktop/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_pdf_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_rect01.xml" value="0.1405" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_rect02.xml" value="0.1435" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/drawable/tab_background_selected.xml" value="0.1435" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/drawable/tab_background_unselected.xml" value="0.1435" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/drawable/tab_selector.xml" value="0.1435" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_category_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_dashboard_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_main.xml" value="0.1078125" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_add.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_detail.xml" value="0.25" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_edit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_profile_edit.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_splash.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/dialog_comment_add.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/fragment_book_user.xml" value="0.22" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_comments.xml" value="0.1" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_pdf_admin.xml" value="0.171875" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_pdf_favourite.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/ivan/Desktop/STUDY/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_pdf_user.xml" value="0.22" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_add_purple.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_attach_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_back_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_book_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_category_gray.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_comment_add_black.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_comment_black.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_delete_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_down_gray.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_download_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_edit_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_email_gray.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_favorite_border_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_favorite_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_lock_gray.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_logout_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_more_black.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_pdf_add_white.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/drawable/ic_search_gray.xml" value="0.1195" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_category_add.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_dashboard_user.xml" value="0.25" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_fb2_view.xml" value="0.25" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_fb2_view2.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_main.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_pdf_add.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_pdf_detail.xml" value="0.22" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_pdf_edit.xml" value="0.18125" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_pdf_list_admin.xml" value="0.22" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_pdf_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_profile.xml" value="0.18125" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_profile_edit.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_register.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_splash.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/activity_text_book_view.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/dialog_comment_add.xml" value="0.22" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/dialog_translate_choose.xml" value="0.33" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/fragment_book_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/row_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/row_comments.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/row_pdf_admin.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/row_pdf_favourite.xml" value="0.1078125" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/row_pdf_user.xml" value="0.25" />
+        <entry key="..\:/Users/ivan/Documents/GitHub/course_work2022/BookApp/app/src/main/res/layout/tetetetet.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
